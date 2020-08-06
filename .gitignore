@@ -1,9 +1,9 @@
-./Zindi/CleanedFiles
-./Zindi/spectrograms
-./Zindi/TrainZindi
-./Zindi/Train
-./Zindi/pickles
-./Zindi/models
+/Zindi/CleanedFiles
+/Zindi/spectrograms
+/Zindi/TrainZindi
+/Zindi/Train
+/Zindi/pickles
+/Zindi/models
 
 ./MusicClassification/cleaned
 ./MusicClassification/models
