@@ -1,0 +1,13 @@
+./Zindi/CleanedFiles
+./Zindi/spectrograms
+./Zindi/TrainZindi
+./Zindi/Train
+./Zindi/pickles
+./Zindi/models
+
+./MusicClassification/cleaned
+./MusicClassification/models
+./MusicClassification/pickles
+./MusicClassification/spectrograms
+./MusicClassification/spectrograms2
+./MusicClassification/wavfiles
