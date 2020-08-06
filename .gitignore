@@ -5,9 +5,9 @@
 /Zindi/pickles
 /Zindi/models
 
-./MusicClassification/cleaned
-./MusicClassification/models
-./MusicClassification/pickles
-./MusicClassification/spectrograms
-./MusicClassification/spectrograms2
-./MusicClassification/wavfiles
+/MusicClassification/cleaned
+/MusicClassification/models
+/MusicClassification/pickles
+/MusicClassification/spectrograms
+/MusicClassification/spectrograms2
+/MusicClassification/wavfiles
